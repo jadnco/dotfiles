@@ -1,2 +1,4 @@
 [user]
 	email = jaden.dessureault@gmail.com
+[push]
+	default = simple

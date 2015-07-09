@@ -5,7 +5,7 @@ export ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="mh"
+ZSH_THEME="mhx"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -82,5 +82,6 @@ alias ga='git add '
 alias gaa='git add --a '
 alias gs='git commit '
 alias vlc='/Applications/VLC.app/Contents/MacOS/VLC -I rc'
+alias sublime="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
